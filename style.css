@@ -1,0 +1,42 @@
+body {
+    background-image: 
+    url("images/e1f8554dd0f4e79613cceb8cd006161d.jpg");
+    background-size: cover;
+}
+a {
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img {
+    height: 250px;
+}
+table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p {
+    color: #BAD7E9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+h3 {
+    color: #FCFFE7;
+}
+h1 {
+    color: #BAD7E9;
+}
+hr {
+    color: #EB455F;
+    border-style: none;
+    border-top-style: dotted;
+    width: 25%;
+    border-width: 4px;
+}
+li {
+    color: #EB455F;
+}
